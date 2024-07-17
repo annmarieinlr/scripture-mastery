@@ -60,10 +60,10 @@ import { Scripture } from '../scripture';
 
       <mat-radio-group formControlName="status" aria-label="Select an option">
         <mat-radio-button name="status" value="new" required 
-          >Junior</mat-radio-button
+          >New</mat-radio-button
         >
         <mat-radio-button name="status" value="review"
-          >Mid</mat-radio-button
+          >Review</mat-radio-button
         >
       
       </mat-radio-group>
