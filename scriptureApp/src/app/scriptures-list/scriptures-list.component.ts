@@ -14,11 +14,14 @@ import { MatCardModule } from '@angular/material/card';
     `
       table {
         width: 100%;
+        
 
         button:first-of-type {
           margin-right: 1rem;
         }
       }
+
+      
     `,
   ],
   template: `
